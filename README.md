@@ -1,5 +1,5 @@
 # Brain_inference 
-It's a fmri project 
-Analyzing data based on MATLAB and spm 
+It's an fMRI project 
+analyzing data based on MATLAB and spm 
 The code is also for MATLAB with spm
-Any question fell free to contact me 
+Any questions free to contact me 
